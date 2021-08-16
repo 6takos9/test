@@ -1,0 +1,18 @@
+2021-08-17 00:14:22,389 - [WARNING] - __main__ - (main.py).<module>(82) - Error occurred while copying file.
+2021-08-17 00:16:33,362 - [WARNING] - __main__ - (main.py).<module>(76) - Error occurred while copying file.
+2021-08-17 00:16:37,537 - [WARNING] - __main__ - (main.py).<module>(50) -  Error occurred while copying fileTimeData.csv
+2021-08-17 00:18:00,510 - [WARNING] - __main__ - (main.py).<module>(47) -  Error occurred while copying file1.txt
+2021-08-17 00:18:01,614 - [WARNING] - __main__ - (main.py).<module>(47) -  Error occurred while copying file2.txt
+2021-08-17 00:18:02,676 - [WARNING] - __main__ - (main.py).<module>(47) -  Error occurred while copying fileTimeData.csv
+2021-08-17 00:23:51,963 - [WARNING] - __main__ - (main.py).<module>(45) -  Error occurred while copying file1.txt
+2021-08-17 00:23:51,991 - [WARNING] - __main__ - (main.py).<module>(45) -  Error occurred while copying file2.txt
+2021-08-17 00:23:52,021 - [WARNING] - __main__ - (main.py).<module>(45) -  Error occurred while copying fileTimeData.csv
+2021-08-17 00:25:08,953 - [WARNING] - __main__ - (main.py).<module>(45) -  Error occurred while copying file 1.txt
+2021-08-17 00:25:08,985 - [WARNING] - __main__ - (main.py).<module>(45) -  Error occurred while copying file 2.txt
+2021-08-17 00:25:09,000 - [WARNING] - __main__ - (main.py).<module>(45) -  Error occurred while copying file TimeData.csv
+2021-08-17 00:26:02,321 - [WARNING] - __main__ - (main.py).<module>(46) -  Error occurred while copying file 1.txt
+2021-08-17 00:26:02,321 - [WARNING] - __main__ - (main.py).<module>(46) -  Error occurred while copying file 2.txt
+2021-08-17 00:26:02,337 - [WARNING] - __main__ - (main.py).<module>(46) -  Error occurred while copying file TimeData.csv
+2021-08-17 00:28:55,201 - [WARNING] - __main__ - (main.py).<module>(46) -  Error occurred while copying file 1.txt
+2021-08-17 00:28:55,248 - [WARNING] - __main__ - (main.py).<module>(46) -  Error occurred while copying file 2.txt
+2021-08-17 00:28:55,270 - [WARNING] - __main__ - (main.py).<module>(46) -  Error occurred while copying file TimeData.csv
